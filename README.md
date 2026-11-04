@@ -173,8 +173,8 @@ Civic awareness app that makes voting easier to understand.
 <div align="center">
 
 <a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-00f5a0?style=for-the-badge&logo=vercel&logoColor=black"/></a>
-<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:YOUR@EMAIL.com"><img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/aryanbhojgaria/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:aryanbhojgaria@gmail.com"><img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br/><br/>
 
