@@ -149,9 +149,9 @@ Civic awareness app that makes voting easier to understand.
 
 ---
 
-## 📈 Contribution Graph
+## 🧊 3D Contributions
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanbhojgaria&theme=react-dark&hide_border=true&bg_color=0d1117&color=00f5a0&line=7c3aed&point=ffffff&area=true" width="100%"/>
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 
 ---
 
