@@ -167,7 +167,7 @@ Open to **internships**, **freelance projects** and **hackathon teams**. If you 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=60&section=footer" width="100%"/>
 ## 📬 Let's Build Something
-.
+
 <div align="center">
 
 <a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-00f5a0?style=for-the-badge&logo=vercel&logoColor=black"/></a>
