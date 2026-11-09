@@ -75,11 +75,6 @@ Scroll-based 3D reveal, comic/newsprint visual style, movie archive organised by
 `JavaScript` `3D` `Scroll animation`
 [Code](https://github.com/aryanbhojgaria/spiderman) · [Live](https://spiderman-gamma-three.vercel.app)
 
-### 🏥 MedHome
-Healthcare web app focused on a clean, simple patient experience.
-`TypeScript` `Vercel`
-[Code](https://github.com/aryanbhojgaria/MedHome) · [Live](https://med-home-mu.vercel.app)
-
 ### 📉 AttritionX
 Employee attrition insights dashboard.
 `TypeScript` `Data visualisation`
