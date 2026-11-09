@@ -163,7 +163,7 @@ Want something similar? [Get in touch](mailto:YOUR@EMAIL.com).
 
 Open to **internships**, **freelance projects** and **hackathon teams**. If you have an idea that needs to look good and work properly, reach out.
 
-[Portfolio](https://YOUR-PORTFOLIO.com) · [LinkedIn](https://linkedin.com/in/aryanbhojgaria) · [Email](aryanbhojgaria@gmail.com)
+[Portfolio](https://YOUR-PORTFOLIO.com) · [LinkedIn](https://linkedin.com/in/aryanbhojgaria/) · [Email](aryanbhojgaria@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=60&section=footer" width="100%"/>
 ## 📬 Let's Build Something
