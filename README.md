@@ -25,7 +25,7 @@ I'm a CS student (GenAI specialisation) who builds full-stack products with a st
 | 📚 **Learning** | DSA, AI/ML, system design. Preparing for GATE DA 2028 |
 | 🏆 **Highlight** | 1st place, Pitch: Zero to One (CareBridge) |
 | 🤝 **Open to** | Internships, freelance projects, hackathon teams |
-.
+
 <br/>
 
 ## What I Do
